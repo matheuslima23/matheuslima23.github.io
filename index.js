@@ -33,8 +33,20 @@ function entradaDevalor(){
 document.getElementById("resultado").innerHTML=valAleatorios
 }
 
+function GeraJogoMega(){
+    let njogos=parseInt(document.getElementById("c3-campo"))
+      let josgosMega=[]
+    for (let i=0;i<njogos;i++){
+        josgosMega.push("jogo"+i)
+    }
+    document.getElementById("c3-resultado").innerHTML=josgosMega
+
+}
 
 
+function CriarJogo(){
+    
+}
 
 
 

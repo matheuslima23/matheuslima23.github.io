@@ -16,3 +16,21 @@ section{
  border: 10px,solid,#000000;
 
 }
+
+.button{
+  cursor: pointer;
+  background-color: aliceblue;
+  padding: 5px;
+  border-radius:15px;
+  font-family:'Ibarra Real Nova';
+  color: #535035;
+}
+.button:hover{
+  background-color: #000000;
+}
+.barra:hover{
+  background-color: #000000;
+}
+
+
+
