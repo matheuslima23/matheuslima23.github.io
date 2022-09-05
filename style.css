@@ -1,12 +1,12 @@
-@import url();
+/* @import url(); */
 
 body{
   background:#EAF4F4;
-  header {
+  /*header {
     display: flex;
-    justify-content: space-arond;
+    justify-content: space-arond;*/
   }
-}
+
 main{ 
     display:flex;
     justify-content: center;
